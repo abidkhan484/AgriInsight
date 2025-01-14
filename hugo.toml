@@ -16,14 +16,14 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/abidkhan484/AgriInsight"
+  url = "https://github.com/abidkhan484/agri-insight"
   weight = 10
 
 [params]
   BookTheme = 'auto'
   BookToC = true
   BookSection = 'docs'
-  BookRepo = 'https://github.com/abidkhan484/AgriInsight'
+  BookRepo = 'https://github.com/abidkhan484/agri-insight'
   BookEditPath = 'blob/main'
   BookDateFormat = 'January 2, 2006'
   BookSearch = true
