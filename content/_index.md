@@ -1,14 +1,15 @@
 ---
 title: "Roadmap to Multilayer Farming"
 date: 2025-01-14T15:11:42+06:00
-draft: false
+weight: 1
+bookFlatSection: true
 ---
 
 
 # Roadmap to Multilayer Farming
 
 ## 1. Assess Land and Climate Conditions
-- **[Evaluate Land](/Access-land-and-climate-condition/Evaluate-Land)**: Ensure the land is suitable for multilayer farming by analyzing soil type, fertility, and drainage.
+- **[Evaluate Land](/docs/access-land-and-climate-condition/evaluate-land)**: Ensure the land is suitable for multilayer farming by analyzing soil type, fertility, and drainage.
 - **Analyze Climate**: Consider temperature, rainfall, and light intensity in your region as these factors influence crop compatibility.
 
 ---
