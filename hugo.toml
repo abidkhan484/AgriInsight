@@ -16,7 +16,7 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/abidkhan484/agri-insight"
+  url = "https://github.com/abidkhan484/agri-insight/discussions"
   weight = 10
 
 [params]

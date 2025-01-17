@@ -8,6 +8,32 @@ bookFlatSection: true
 
 # Roadmap to Multilayer Farming
 
+Roadmap to Multilayer Farming explores innovative agricultural practices that maximize land use by growing multiple crops in vertically stacked or layered arrangements. This guide highlights efficient resource utilization, increased yields, and sustainable farming techniques to meet growing food demands while minimizing environmental impact.
+
+{{< mermaid [class="..."] >}}
+mindmap
+  root((AgriInsight))
+    Soil Preparation
+        Analyze soil type
+            id)Soil testing kit(
+                Check nutrient levels
+                    pH
+                    Nitrogen
+                    Phosphorus
+                    Potassium
+                    Moisture
+                    Temperature
+                    Conductivity
+        Assess drainage
+       
+    AI Agent
+        Feed the agent with<br>youtube content
+            Video transcript
+            id))Visual contents((
+        id))Find disease using image((
+            Suggest solution
+{{< /mermaid >}}
+
 ## 1. Assess Land and Climate Conditions
 - **[Evaluate Land](/docs/access-land-and-climate-condition/evaluate-land)**: Ensure the land is suitable for multilayer farming by analyzing soil type, fertility, and drainage.
 - **Analyze Climate**: Consider temperature, rainfall, and light intensity in your region as these factors influence crop compatibility.
